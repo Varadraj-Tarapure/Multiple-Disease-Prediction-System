@@ -13,10 +13,10 @@ Platform, Libraries and Frameworks used
 
 
 Accuracy for each disease:
-Support Vector Machine (Diabetes) : 78.33%
-Logistic Regression (Heart) : 85.12%
-Support Vector Machine (Parkinson) : 87.17%
-Convolutional Neural Network (Pneumonia) : 92.46%
+Support Vector Machine (Diabetes) : 78.33%,
+Logistic Regression (Heart) : 85.12%,
+Support Vector Machine (Parkinson) : 87.17%,
+Convolutional Neural Network (Pneumonia) : 92.46%,
 Logistic Regression (Liver) : 75%
 
 
