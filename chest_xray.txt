@@ -1,4 +1,2 @@
 https://drive.google.com/drive/folders/1PYhOCrguHcOOvSJN6opMBSz9_P7WQSxC
-
-
-(Use this link to download chest xray folder which contains images for training on pneumonia disease prediction using CNN model)
+(Use the above link to download chest_xray folder which contains images for training on pneumonia disease prediction using CNN model)
