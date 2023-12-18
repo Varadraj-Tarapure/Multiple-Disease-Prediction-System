@@ -12,7 +12,8 @@ Platform, Libraries and Frameworks used
 7. [Sklearn](https://scikit-learn.org/stable/index.html)
 8. [Tensorflow](https://www.tensorflow.org/)
 9. [Keras](https://keras.io/)
-10.[OpenCV](https://opencv.org/)
+10. [OpenCV](https://opencv.org/)
+
 
 
 Accuracy for each disease:
@@ -21,6 +22,7 @@ Logistic Regression (Heart) : 85.12%,
 Support Vector Machine (Parkinson) : 87.17%,
 Convolutional Neural Network (Pneumonia) : 92.46%,
 Logistic Regression (Liver) : 75%
+
 
 
 References
