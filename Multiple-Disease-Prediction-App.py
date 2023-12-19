@@ -514,7 +514,7 @@ if (selected == "Parkinsons Prediction"):
            .danger{
            background-color:red;
            }</style>
-           <h4 class=danger>You have a high chance of having Heart Disease, Consult a doctor!</h4>
+           <h4 class=danger>You have a high chance of having Parkinson Disease, Consult a doctor!</h4>
     
            
     
